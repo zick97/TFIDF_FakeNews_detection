@@ -1,4 +1,4 @@
-### TFIDF Fake News Detection
+## TFIDF Fake News Detection
 As the title suggests, the project focuses on exploring TFIDF vectorization and its potential.
 
 In the first part, various data visualisation techniques, including WordCloud, are applied to understand the dataset and to provide an intuitive justification - supported 
